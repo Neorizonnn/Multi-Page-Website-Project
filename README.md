@@ -96,6 +96,7 @@ lodmov-website/
 └── sty.css
 
 ---
+```
 
 ## 📄 Website Pages
 
@@ -157,6 +158,7 @@ Possible future improvements include:
 **Neorizon**
 
 GitHub: https://github.com/Neorizonnn
+
 Email: neorizon3@gmail.com
 
 ---
@@ -165,10 +167,10 @@ Email: neorizon3@gmail.com
 
 This project is open for learning and inspiration.
 
-Please do not copy it directly without a proper permission first. 
+Please do not copy it directly without proper permission.
 
-Feel free to contact me anytime !!!!
+Feel free to contact me anytime.
 
 ---
 
-### ⭐ If you found this project interesting, consider giving it a star !!
+### ⭐ If you found this project interesting, consider giving it a star!
